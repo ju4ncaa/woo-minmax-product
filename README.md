@@ -11,7 +11,6 @@ Este plugin permite establecer cantidades **mínimas y máximas** para productos
 - Actualización dinámica de límites de cantidad en productos variables.
 - Modal informativo en la pantalla de plugins.
 
----
 
 ## Instalación
 
@@ -19,7 +18,6 @@ Este plugin permite establecer cantidades **mínimas y máximas** para productos
 2. Copia la carpeta del plugin en `wp-content/plugins/`.
 3. Activa el plugin desde el panel de WordPress en **Plugins**.
 
----
 
 ## Uso
 
@@ -45,7 +43,6 @@ Este plugin permite establecer cantidades **mínimas y máximas** para productos
 - En el carrito y checkout se aplican las mismas restricciones.
 - Los inputs de cantidad se ajustan automáticamente según el mínimo y máximo definido.
 
----
 
 ## Personalización
 
